@@ -61,3 +61,7 @@ footer h1 {
   color: white;
   text-shadow: black 1px 1px 0;
 }
+.food-quantity {
+  font-weight: bold;
+  color: #ccc;
+}
