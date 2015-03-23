@@ -11,7 +11,8 @@ header, section, footer {
   margin: 0 auto 48px;
 }
 a:link, a:visited {
-  color: white;
+  color: #ccc;
+  font-weight: normal;
   background: transparent;
 }
 #logo {
@@ -64,4 +65,10 @@ footer h1 {
 .food-quantity {
   font-weight: bold;
   color: #ccc;
+}
+.icon img{
+  width: 37px;
+  height: 37px;
+  border: 0px;
+  border-radius: 20%;
 }
