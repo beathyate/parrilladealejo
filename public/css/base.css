@@ -11,7 +11,7 @@ header, section, footer {
   margin: 0 auto 48px;
 }
 a:link, a:visited {
-  color: #ccc;
+  color: white;
   font-weight: normal;
   background: transparent;
 }
