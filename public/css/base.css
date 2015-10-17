@@ -11,7 +11,8 @@ header, section, footer {
   margin: 0 auto 48px;
 }
 a:link, a:visited {
-  color: white;
+  color: #ccc;
+  font-weight: normal;
   background: transparent;
 }
 #logo {
@@ -40,6 +41,7 @@ li {
 }
 section h1 {
   text-transform: uppercase;
+  /*font-family: 'distressed-wood', serif;*/
   color: orange;
   text-shadow: red 1px 1px 0;
   font-size: 48px;
@@ -58,10 +60,23 @@ footer h1 {
   font-size: 28px;
   line-height: 48px;
   margin: 24px auto 0;
-  color: white;
+  color: #ccc;
   text-shadow: black 1px 1px 0;
 }
 .food-quantity {
   font-weight: bold;
   color: #ccc;
+}
+.icon img{
+  width: 37px;
+  height: 37px;
+  border: 0px;
+  border-radius: 20%;
+}
+.precio {
+  font-weight: bold;
+  color: #fff1ec;
+  text-shadow: #000 1px 1px 1px;
+  font-size: 24px;
+  -webkit-font-smoothing: antialiased;
 }
