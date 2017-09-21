@@ -80,3 +80,7 @@ footer h1 {
   font-size: 24px;
   -webkit-font-smoothing: antialiased;
 }
+
+.cervezas_artesanales img {
+  border-radius: 5%;
+}
